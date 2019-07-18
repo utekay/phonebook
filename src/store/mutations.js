@@ -1,0 +1,6 @@
+export const SET_USERS = 'SET_USERS'
+export const SET_LOADING = 'SET_LOADING'
+export const SET_NAME_FILTER = 'SET_NAME_FILTER'
+export const SET_BIRTH_DATE_FILTER = 'SET_BIRTH_DATE_FILTER'
+export const CLEAR_FILTERS = 'CLEAR_FILTERS'
+export const SET_SORT_BY = 'SET_SORT_BY'
